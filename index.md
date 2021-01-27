@@ -1,7 +1,7 @@
 ## Welcome to YEP Online Gaming Arcade
 
-title: [YEP Online Gaming Arcade]
-description: [Welcome to the world of gaming !
+title: [TimmyYEP Online Gaming Arcade]
+description: [TimmyWelcome to the world of gaming !
 We have five interesting games to entertain you,
  specially developed by our team. 
 Remember, You have a play time of only twenty minutes ]
